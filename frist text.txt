@@ -1,3 +1,5 @@
 that is the frist text
 /*now i change it */
-delete by revert commit
+
+now to delet
+and also that
